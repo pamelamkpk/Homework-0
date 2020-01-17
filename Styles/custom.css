@@ -1,0 +1,49 @@
+<style> 
+    p {
+        font-size:15px;
+    }
+
+    p.notebook_header {
+        text-align:center;
+        font-size:30px;
+        margin-bottom: 30px;
+    }
+
+    p.section_header {
+        text-align:left;
+        font-size:25px;
+        margin-top: 20px;
+        margin-bottom: 35px;
+    }
+
+    hr.separate {
+        height:3px;
+        border:none;
+    }
+
+    hr.light_separate {
+        height:1px;
+        border:none;
+    }
+
+    li {
+        font-size:15px;
+    }
+
+    td {
+        font-size:15px;
+    }
+
+    div.code-div {
+        text-align: center; 
+        margin-top: 10px;
+        margin-bottom: 10px;       
+    }
+
+    #code {
+        background: #f4f4f4;
+        border: 1px solid #ddd;
+        font-family: monospace;
+        font-size: 15px;
+    }
+</style> 
