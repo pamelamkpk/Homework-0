@@ -1,7 +1,7 @@
 import subprocess
 
 def main():
-	upstream_repo = "https://github.com/fri-robotlearning/Homework-0"
+	upstream_repo = ""
 
 	subprocess.Popen(["git", "remote", "add", "upstream", upstream_repo], stdout=subprocess.PIPE)
 	subprocess.Popen(["git", "fetch", "upstream"], stdout=subprocess.PIPE)
