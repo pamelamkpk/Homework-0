@@ -6,3 +6,5 @@
 2. **Github_Classroom**: How to access/submit homeworks.
 3. **Conda**: How to manage your Python environment.
 4. **Python**: Basic Python coding.
+
+### Once you are done, view **Homework_Tasks** to make sure you've completed everything.
